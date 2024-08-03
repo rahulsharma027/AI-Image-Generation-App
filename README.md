@@ -1,6 +1,6 @@
 THIS A FINAL YEAR PROJECT BY TEAM RAHUL:
 
-Published Paper Link of this Project : https://www.ijnrd.org/viewpaper.php?paper=IJNRD2403542
+Published Paper Link of this Project : [https://www.ijnrd.org/viewpaper.php?paper=IJNRD2403542](http://www.ijnrd.org/papers/IJNRD2403542.pdf)
 
 MEMBERS : i) RAHUL SHARMA (Team Leader)
          ii) HARSH  JAISWAL
