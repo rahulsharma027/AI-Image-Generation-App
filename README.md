@@ -69,7 +69,7 @@ Community Showcase where users can share their generated images via this applica
 
 
 
-Vercel Deployment Link: (Note That: Some Features are unable to update on the vercel free app deployment and MysticAI API calls depends upon its up time , in college demonstration of our project we have showcase the project in local-host for faster results and have a option to deploy it cloud platform, with all the free resources we try our best to create a good image generation system that is server less, the community page works fine in out website that have some good images for reference)
+Vercel Deployment Link: (Note That: Some Features are unable to update on the vercel free app deployment and MysticAI API calls depends upon its up time, it results in missplaced elements in navbar and issues with google login authentication with google firebase , in college demonstration of our project we have showcase the project in local-host for faster results and have a option to deploy it cloud platform, with all the free resources we try our best to create a good image generation system that is server less, the community page works fine in out website that have some good images for reference)
 
 https://new-final-year.vercel.app/
 
