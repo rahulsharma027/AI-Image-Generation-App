@@ -1,11 +1,25 @@
 THIS A FINAL YEAR PROJECT BY TEAM RAHUL:
 
+Published Paper Link of this Project : 
+
 MEMBERS : i) RAHUL SHARMA (Team Leader)
          ii) HARSH  JAISWAL
         iii) NAKUL SINGH JADON
         
 PROJECT GUIDE :     CHARUL BAPNA,
                 ASSISTANT PROF. PIET
+
+
+Technology used:
+i) DALL-E By OpenAI
+ii) Stable Diffusion
+iii) MysticAI API Integration for serverless deployment
+iv) ReactJS modules for front-end and design
+v) Google Firebase for Database
+vi) Flask framework for API calls
+vii) Vercel for Deployment
+
+It's a serverless applocation that can simply be deployed on any supported platform, and can also be deployed on traditional AWS and Azure for more scalability and customization. 
 
 
 Here are some shots of out project:
@@ -28,6 +42,9 @@ Here are some shots of out project:
 
 
 
+Generate Page:
+
+
 ![generate](https://github.com/user-attachments/assets/7428d83f-fd5e-476f-beb1-942347607adb)
 
 
@@ -39,5 +56,5 @@ Here are some shots of out project:
 ![gen2](https://github.com/user-attachments/assets/3ee0c21c-429e-4a98-9489-3b6b6541e5f4)
 
 
-
+Community Showcase where users can share their generated images via this application to all users along with prompts they use to generate the image 
 ![comm](https://github.com/user-attachments/assets/d32f358d-4398-494f-b88f-d6e36eca753a)
