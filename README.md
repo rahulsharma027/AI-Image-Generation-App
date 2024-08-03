@@ -4,7 +4,7 @@ MEMBERS : i) RAHUL SHARMA (Team Leader)
          ii) HARSH  JAISWAL
         iii) NAKUL SINGH JADON
         
-PROJECT GUIDE :     CHARUL BAPNA
+PROJECT GUIDE :     CHARUL BAPNA,
                 ASSISTANT PROF. PIET
 
 
