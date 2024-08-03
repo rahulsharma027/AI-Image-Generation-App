@@ -58,3 +58,15 @@ Generate Page:
 
 Community Showcase where users can share their generated images via this application to all users along with prompts they use to generate the image 
 ![comm](https://github.com/user-attachments/assets/d32f358d-4398-494f-b88f-d6e36eca753a)
+
+
+
+
+
+
+
+
+Vercel Deployment Link: (Note That: Some Features are unable to update on the vercel free app deployment and MysticAI API calls depends upon its up time , in college demonstration of our peoject we have shown the project in local-host for faster results and have a option to deploy it cloud platform, with all the free resources we try our best to create a good image generation system that is server less, the community page works fine in out website that have some good images for reference)
+
+https://new-final-year.vercel.app/
+
