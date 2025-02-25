@@ -29,38 +29,38 @@ Here are some shots of out project:
 
 
 
-![final](https://drive.google.com/file/d/1m_T_McvIZtD1Ub2fA33WrM_V7n0JhtV8/view?usp=drive_link)
+![final](https://drive.google.com/uc?id=1m_T_McvIZtD1Ub2fA33WrM_V7n0JhtV8)
 
 
 
-![final2](https://drive.google.com/file/d/13vNSZYS2Q6qJi900tnXlUvLC4GfIcZ8o/view?usp=drive_link)
+![final2](https://drive.google.com/uc?id=13vNSZYS2Q6qJi900tnXlUvLC4GfIcZ8o)
 
 
 
-![contactus](https://drive.google.com/file/d/102BjIy2A3jA73T1M4yst2c_vkPQAjSRN/view?usp=drive_link)
+![contactus](https://drive.google.com/uc?id=102BjIy2A3jA73T1M4yst2c_vkPQAjSRN)
 
 
 
-![login](https://drive.google.com/file/d/1fAvHYcOtG3yBecN1kRyPBNcZM80ckxnJ/view?usp=drive_link)
+![login](https://drive.google.com/uc?id=1fAvHYcOtG3yBecN1kRyPBNcZM80ckxnJ)
 
 
 
 Generate Page:
 
 
-![generate](https://drive.google.com/file/d/1GXyLWqdVZtWMj-SRmkIsu9R1vnnB9xKf/view?usp=drive_link)
+![generate](https://drive.google.com/uc?id=1GXyLWqdVZtWMj-SRmkIsu9R1vnnB9xKf)
 
 
 
-![gen1](https://drive.google.com/file/d/1FmEJRL5oqagbxsOwWBsCnYW5E8vNoUkX/view?usp=drive_link)
+![gen1](https://drive.google.com/uc?id=1FmEJRL5oqagbxsOwWBsCnYW5E8vNoUkX)
 
 
 
-![gen2](https://drive.google.com/file/d/1qDA-N6NOPWBteAglQ8t1CtlRuexlS8Qd/view?usp=drive_link)
+![gen2](https://drive.google.com/uc?id=1qDA-N6NOPWBteAglQ8t1CtlRuexlS8Qd)
 
 
 Community Showcase where users can share their generated images via this application to all users along with prompts they use to generate the image 
-![comm](https://drive.google.com/file/d/1TKN5f37ZZxgwn8-YYfX5vbwHJksHJ5vb/view?usp=drive_link)
+![comm](https://drive.google.com/uc?id=1TKN5f37ZZxgwn8-YYfX5vbwHJksHJ5vb)
 
 
 
