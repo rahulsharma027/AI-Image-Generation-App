@@ -29,38 +29,38 @@ Here are some shots of out project:
 
 
 
-![final](https://github.com/user-attachments/assets/5bf02d01-4ca8-4494-b99c-59ccc165ce37)
+![final](https://drive.google.com/file/d/1m_T_McvIZtD1Ub2fA33WrM_V7n0JhtV8/view?usp=drive_link)
 
 
 
-![final2](https://github.com/user-attachments/assets/d7033939-3ece-4c61-922a-8565b2addfb5)
+![final2](https://drive.google.com/file/d/13vNSZYS2Q6qJi900tnXlUvLC4GfIcZ8o/view?usp=drive_link)
 
 
 
-![contactus](https://github.com/user-attachments/assets/6131503e-2e56-4e9c-9b51-dd1ef6ef2084)
+![contactus](https://drive.google.com/file/d/102BjIy2A3jA73T1M4yst2c_vkPQAjSRN/view?usp=drive_link)
 
 
 
-![login](https://github.com/user-attachments/assets/b371825d-e465-47a2-986c-ab2f7051e898)
+![login](https://drive.google.com/file/d/1fAvHYcOtG3yBecN1kRyPBNcZM80ckxnJ/view?usp=drive_link)
 
 
 
 Generate Page:
 
 
-![generate](https://github.com/user-attachments/assets/7428d83f-fd5e-476f-beb1-942347607adb)
+![generate](https://drive.google.com/file/d/1GXyLWqdVZtWMj-SRmkIsu9R1vnnB9xKf/view?usp=drive_link)
 
 
 
-![gen1](https://github.com/user-attachments/assets/77677f82-3841-497e-92a0-1bf0e6b0f9ef)
+![gen1](https://drive.google.com/file/d/1FmEJRL5oqagbxsOwWBsCnYW5E8vNoUkX/view?usp=drive_link)
 
 
 
-![gen2](https://github.com/user-attachments/assets/3ee0c21c-429e-4a98-9489-3b6b6541e5f4)
+![gen2](https://drive.google.com/file/d/1qDA-N6NOPWBteAglQ8t1CtlRuexlS8Qd/view?usp=drive_link)
 
 
 Community Showcase where users can share their generated images via this application to all users along with prompts they use to generate the image 
-![comm](https://github.com/user-attachments/assets/d32f358d-4398-494f-b88f-d6e36eca753a)
+![comm](https://drive.google.com/file/d/1TKN5f37ZZxgwn8-YYfX5vbwHJksHJ5vb/view?usp=drive_link)
 
 
 
